@@ -233,8 +233,8 @@ border-radius: 35px;
 
 
 ## OUTPUT:
-![Screenshot 2023-11-13 195233](https://github.com/jaswanth-1723/Figma/assets/127680667/e4b92090-5fe1-4a93-bba9-931b34cd6f8a)
-
-
+![Alt text](output1.png)
+![Alt text](output2.png)
+![Alt text](output3.png)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
